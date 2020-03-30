@@ -32,6 +32,7 @@ A collection of referring image segmentation papers and datasets.
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
+| MCN | [Multi-task Collaborative Network for Joint Referring Expression Comprehension and Segmentation](https://arxiv.org/abs/2003.08813) | CVPR 2020 | [[code]](https://github.com/luogen1996/MCN) |
 | - | [Dual Convolutional LSTM Network for Referring Image Segmentation](https://arxiv.org/abs/2001.11561) | TMM 2020 |  |
 | STEP | [See-Through-Text Grouping for Referring Image Segmentation](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_See-Through-Text_Grouping_for_Referring_Image_Segmentation_ICCV_2019_paper.pdf) | ICCV 2019 |  |
 | lang2seg | [Referring Expression Object Segmentation with Caption-Aware Consistency](https://arxiv.org/pdf/1910.04748.pdf) | BMVC 2019 | [[code]](https://github.com/wenz116/lang2seg) |
