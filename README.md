@@ -12,8 +12,11 @@ A collection of referring image segmentation papers and datasets.
 
 **Outline**
 
-- [Datasets](#1-datasets)
-- [Methods](#2-methods)
+- [1. Datasets](#1-datasets)
+- [2. Traditional Referring Image Segmentation](#2-traditional-referring-image-segmentation)
+- [3. Interactive Referring Image Segmentation](#3-interactive-referring-image-segmentation)
+- [4. Referring Video Segmentation](#4-referring-video-segmentation)
+
 
 ## 1. Datasets
 
@@ -29,7 +32,7 @@ A collection of referring image segmentation papers and datasets.
 
 ---
 
-## 2. Methods
+## 2. Traditional Referring Image Segmentation
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
@@ -48,3 +51,18 @@ A collection of referring image segmentation papers and datasets.
 | MAttNet | [MAttNet: Modular Attention Network for Referring Expression Comprehension](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yu_MAttNet_Modular_Attention_CVPR_2018_paper.pdf) | CVPR 2018 | [[code]](https://github.com/lichengunc/MAttNet) [[Demo]](http://vision2.cs.unc.edu/refer/comprehension) |
 | RMI | [Recurrent Multimodal Interaction for Referring Image Segmentation](http://openaccess.thecvf.com/content_ICCV_2017/papers/Liu_Recurrent_Multimodal_Interaction_ICCV_2017_paper.pdf) | ICCV 2017 | [[code]](https://github.com/chenxi116/TF-phrasecut-public) |
 | LSTM-CNN | [Segmentation from natural language expressions](https://arxiv.org/pdf/1603.06180.pdf) | ECCV 2016 | [[code]](https://github.com/ronghanghu/text_objseg) [[project]](http://ronghanghu.com/text_objseg/) |
+
+
+## 3. Interactive Referring Image Segmentation
+
+| Short name | Paper | Source | Code/Project Link  |
+| --- | --- | --- | --- |
+| PhraseClick | [PhraseClick: Toward Achieving Flexible Interactive Segmentation by Phrase and Click](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480426.pdf) | ECCV 2020 |  |
+
+
+## 4. Referring Video Segmentation
+
+| Short name | Paper | Source | Code/Project Link  |
+| --- | --- | --- | --- |
+| URVOS | [URVOS: Unified Referring Video Object Segmentation Network with a Large-Scale Benchmark](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123600205.pdf) | ECCV 2020 | [[code]](https://github.com/skynbe/Refer-Youtube-VOS) |
+|  | [Video Object Segmentation with Language Referring Expressions](https://link.springer.com/chapter/10.1007/978-3-030-20870-7_8) | ACCV 2018 |  |
