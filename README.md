@@ -16,6 +16,7 @@ A collection of referring image segmentation papers and datasets.
 - [2. Traditional Referring Image Segmentation](#2-traditional-referring-image-segmentation)
 - [3. Interactive Referring Image Segmentation](#3-interactive-referring-image-segmentation)
 - [4. Referring Video Segmentation](#4-referring-video-segmentation)
+- [5. Referring 3D Instance Segmentation](#5-referring-3d-instance-segmentation)
 
 
 ## 1. Datasets
@@ -68,3 +69,11 @@ A collection of referring image segmentation papers and datasets.
 | RefVOS | [RefVOS: A Closer Look at Referring Expressions for Video Object Segmentation](https://arxiv.org/abs/2010.00263) | arxiv |  |
 | URVOS | [URVOS: Unified Referring Video Object Segmentation Network with a Large-Scale Benchmark](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123600205.pdf) | ECCV 2020 | [[code]](https://github.com/skynbe/Refer-Youtube-VOS) |
 |  | [Video Object Segmentation with Language Referring Expressions](https://link.springer.com/chapter/10.1007/978-3-030-20870-7_8) | ACCV 2018 |  |
+
+
+## 5. Referring 3D Instance Segmentation
+
+| Short name | Paper | Source | Code/Project Link  |
+| --- | --- | --- | --- |
+| TGNN | [Text-Guided Graph Neural Networks for Referring 3D Instance Segmentation](https://www.aaai.org/AAAI21Papers/AAAI-4433.HuangP.pdf) | AAAI 2021 |  |
+
