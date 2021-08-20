@@ -81,4 +81,5 @@ A collection of referring image segmentation papers and datasets.
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
 | TGNN | [Text-Guided Graph Neural Networks for Referring 3D Instance Segmentation](https://www.aaai.org/AAAI21Papers/AAAI-4433.HuangP.pdf) | AAAI 2021 |  |
+| InstanceRefer | [InstanceRefer: Cooperative Holistic Understanding for Visual Grounding on Point Clouds through Instance Multi-level Contextual Referring](https://arxiv.org/pdf/2103.01128.pdf) | ICCV 2021 | [[code]](https://github.com/CurryYuan/InstanceRefer) |
 
