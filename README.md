@@ -38,7 +38,7 @@ A collection of referring image segmentation papers and datasets.
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
 | VLT | [Vision-Language Transformer and Query Generation for Referring Segmentation](https://arxiv.org/abs/2108.05565) | ICCV 2021 | [[code]](https://github.com/henghuiding/Vision-Language-Transformer) |
-| MDETR | [MDETR - Modulated Detection for End-to-End Multi-Modal Understanding](https://arxiv.org/abs/2104.12763) | arxiv 2104 | [[code]](https://github.com/ashkamath/mdetr) [[webpage]](https://ashkamath.github.io/mdetr_page/) |
+| MDETR | [MDETR - Modulated Detection for End-to-End Multi-Modal Understanding](https://arxiv.org/abs/2104.12763) | ICCV 2021 | [[code]](https://github.com/ashkamath/mdetr) [[webpage]](https://ashkamath.github.io/mdetr_page/) |
 | EFN | [Encoder Fusion Network with Co-Attention Embedding for Referring Image Segmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Feng_Encoder_Fusion_Network_With_Co-Attention_Embedding_for_Referring_Image_Segmentation_CVPR_2021_paper.pdf) | CVPR 2021 |  |
 | BUSNet | [Bottom-Up Shift and Reasoning for Referring Image Segmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Bottom-Up_Shift_and_Reasoning_for_Referring_Image_Segmentation_CVPR_2021_paper.pdf) | CVPR 2021 | [[code]](https://github.com/incredibleXM/BUSNet) |
 | LTS | [Locate then Segment: A Strong Pipeline for Referring Image Segmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Jing_Locate_Then_Segment_A_Strong_Pipeline_for_Referring_Image_Segmentation_CVPR_2021_paper.pdf) | CVPR 2021 |  |
