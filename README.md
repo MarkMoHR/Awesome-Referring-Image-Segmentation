@@ -29,7 +29,7 @@ A collection of referring image segmentation papers and datasets.
 | UNC+ | [Modeling context in referring expressions](https://arxiv.org/pdf/1608.00272) | ECCV 2016 | [[dataset]](https://github.com/lichengunc/refer) |
 | CLEVR-Ref+ | [CLEVR-Ref+: Diagnosing Visual Reasoning with Referring Expressions](https://arxiv.org/pdf/1901.00850.pdf) | CVPR 2019 | [[project]](https://cs.jhu.edu/~cxliu/2019/clevr-ref+) |
 | VGPhraseCut | [PhraseCut: Language-based Image Segmentation in the Wild](https://people.cs.umass.edu/~smaji/papers/phrasecut+supp-cvpr20.pdf) | CVPR 2020 | [[project]](https://people.cs.umass.edu/~chenyun/phrasecut/) |
-
+| ScanRefer | [ScanRefer: 3D Object Localization in RGB-D Scans using Natural Language](https://arxiv.org/pdf/1912.08830) | ECCV 2020 | [[project]](https://daveredrum.github.io/ScanRefer/) |
 
 ---
 
