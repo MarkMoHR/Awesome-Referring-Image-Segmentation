@@ -80,6 +80,7 @@ A collection of referring image segmentation papers and datasets.
 | URVOS | [URVOS: Unified Referring Video Object Segmentation Network with a Large-Scale Benchmark](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123600205.pdf) | ECCV 2020 | [[code]](https://github.com/skynbe/Refer-Youtube-VOS) |
 | YOFO | [You Only Infer Once: Cross-Modal Meta-Transfer for Referring Video Object Segmentation](https://www.aaai.org/AAAI22Papers/AAAI-1100.LiD.pdf) | AAAI 2022 | |
 | MTTR | [End-to-End Referring Video Object Segmentation with Multimodal Transformers](https://arxiv.org/abs/2111.14821) | CVPR 2022 | [[code]](https://github.com/mttr2021/MTTR) |
+| ReferFormer | [Language as Queries for Referring Video Object Segmentation](https://arxiv.org/abs/2201.00487) | CVPR 2022 | [[code]](https://github.com/wjn922/ReferFormer) |
 
 
 ## 5. Referring 3D Instance Segmentation
