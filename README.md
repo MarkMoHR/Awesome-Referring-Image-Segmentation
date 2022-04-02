@@ -38,8 +38,9 @@ A collection of referring image segmentation papers and datasets.
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
-| LAVT | [LAVT: Language-Aware Vision Transformer for Referring Image Segmentation](https://arxiv.org/abs/2112.02244) | arxiv 21.12 |  |
-| CRIS | [CRIS: CLIP-Driven Referring Image Segmentation](https://arxiv.org/abs/2111.15174) | arxiv 21.11 |  |
+| LAVT | [LAVT: Language-Aware Vision Transformer for Referring Image Segmentation](https://arxiv.org/abs/2112.02244) | CVPR 2022 |  |
+| CRIS | [CRIS: CLIP-Driven Referring Image Segmentation](https://arxiv.org/abs/2111.15174) | CVPR 2022 |  |
+| ReSTR | [ReSTR: Convolution-free Referring Image Segmentation Using Transformers](https://www.microsoft.com/en-us/research/uploads/prod/2022/03/01404.pdf) | CVPR 2022 | [[project]](http://cvlab.postech.ac.kr/research/restr/) |
 | VLT | [Vision-Language Transformer and Query Generation for Referring Segmentation](https://arxiv.org/abs/2108.05565) | ICCV 2021 | [[code]](https://github.com/henghuiding/Vision-Language-Transformer) |
 | MDETR | [MDETR - Modulated Detection for End-to-End Multi-Modal Understanding](https://arxiv.org/abs/2104.12763) | ICCV 2021 | [[code]](https://github.com/ashkamath/mdetr) [[webpage]](https://ashkamath.github.io/mdetr_page/) |
 | EFN | [Encoder Fusion Network with Co-Attention Embedding for Referring Image Segmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Feng_Encoder_Fusion_Network_With_Co-Attention_Embedding_for_Referring_Image_Segmentation_CVPR_2021_paper.pdf) | CVPR 2021 |  |
