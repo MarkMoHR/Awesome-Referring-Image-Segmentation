@@ -83,7 +83,8 @@ A collection of referring image segmentation papers and datasets.
 | YOFO | [You Only Infer Once: Cross-Modal Meta-Transfer for Referring Video Object Segmentation](https://www.aaai.org/AAAI22Papers/AAAI-1100.LiD.pdf) | AAAI 2022 | |
 | MTTR | [End-to-End Referring Video Object Segmentation with Multimodal Transformers](https://arxiv.org/abs/2111.14821) | CVPR 2022 | [[code]](https://github.com/mttr2021/MTTR) |
 | ReferFormer | [Language as Queries for Referring Video Object Segmentation](https://arxiv.org/abs/2201.00487) | CVPR 2022 | [[code]](https://github.com/wjn922/ReferFormer) |
-| LBDT | [Language-Bridged Spatial-Temporal Interaction for Referring Video Object Segmentation](https://github.com/dzh19990407/LBDT) | CVPR 2022 | [[code]](https://github.com/dzh19990407/LBDT) |
+| LBDT | [Language-Bridged Spatial-Temporal Interaction for Referring Video Object Segmentation](https://openaccess.thecvf.com/content/CVPR2022/papers/Ding_Language-Bridged_Spatial-Temporal_Interaction_for_Referring_Video_Object_Segmentation_CVPR_2022_paper.pdf) | CVPR 2022 | [[code]](https://github.com/dzh19990407/LBDT) |
+|  | [Multi-Level Representation Learning with Semantic Alignment for Referring Video Object Segmentation](https://openaccess.thecvf.com/content/CVPR2022/papers/Wu_Multi-Level_Representation_Learning_With_Semantic_Alignment_for_Referring_Video_Object_CVPR_2022_paper.pdf) | CVPR 2022 |  |
 
 
 ## 5. Referring 3D Instance Segmentation
