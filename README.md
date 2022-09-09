@@ -38,6 +38,7 @@ A collection of referring image segmentation papers and datasets.
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
+|  | [Learning From Box Annotations for Referring Image Segmentation](https://ieeexplore.ieee.org/abstract/document/9875225) | TNNLS 2022 | [[code]](https://github.com/fengguang94/Weakly-Supervised-RIS) |
 |  | [Instance-Specific Feature Propagation for Referring Segmentation](https://ieeexplore.ieee.org/abstract/document/9745353) | TMM 2022 |  |
 | LAVT | [LAVT: Language-Aware Vision Transformer for Referring Image Segmentation](https://arxiv.org/abs/2112.02244) | CVPR 2022 |  |
 | CRIS | [CRIS: CLIP-Driven Referring Image Segmentation](https://arxiv.org/abs/2111.15174) | CVPR 2022 |  |
