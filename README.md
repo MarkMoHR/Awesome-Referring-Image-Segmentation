@@ -39,7 +39,7 @@ A collection of referring image segmentation papers and datasets.
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
 | SADLR | [Semantics-Aware Dynamic Localization and Refinement for Referring Image Segmentation](https://arxiv.org/abs/2303.06345) | AAAI 2023 |  |
-| PolyFormer | [PolyFormer: Referring Image Segmentation as Sequential Polygon Generation](https://arxiv.org/abs/2302.07387) | CVPR 2023 |  |
+| PolyFormer | [PolyFormer: Referring Image Segmentation as Sequential Polygon Generation](https://arxiv.org/abs/2302.07387) | CVPR 2023 | [[project]](https://polyformer.github.io/) |
 |  | [Learning From Box Annotations for Referring Image Segmentation](https://ieeexplore.ieee.org/abstract/document/9875225) | TNNLS 2022 | [[code]](https://github.com/fengguang94/Weakly-Supervised-RIS) |
 |  | [Instance-Specific Feature Propagation for Referring Segmentation](https://ieeexplore.ieee.org/abstract/document/9745353) | TMM 2022 |  |
 | LAVT | [LAVT: Language-Aware Vision Transformer for Referring Image Segmentation](https://arxiv.org/abs/2112.02244) | CVPR 2022 |  |
