@@ -38,6 +38,7 @@ A collection of referring image segmentation papers and datasets.
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
+| SEEM | [Segment Everything Everywhere All at Once](https://arxiv.org/abs/2304.06718) | arxiv 23.04 |  |
 | SADLR | [Semantics-Aware Dynamic Localization and Refinement for Referring Image Segmentation](https://arxiv.org/abs/2303.06345) | AAAI 2023 |  |
 | MCRES | [Meta Compositional Referring Expression Segmentation](https://arxiv.org/abs/2304.04415) | CVPR 2023 |  |
 |  | [Zero-shot Referring Image Segmentation with Global-Local Context Features](https://arxiv.org/abs/2303.17811) | CVPR 2023 | [[code]](https://github.com/Seonghoon-Yu/Zero-shot-RIS) |
