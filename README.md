@@ -7,16 +7,17 @@ A collection of referring image segmentation papers and datasets.
 
 > Feel free to create a PR or an issue.
 
-![examples](https://github.com/MarkMoHR/Awesome-Referring-Image-Segmentation/blob/master/teaser.png)
+![examples](teaser.png)
 
 
 **Outline**
 
-- [1. Datasets](#1-datasets)
-- [2. Traditional Referring Image Segmentation](#2-traditional-referring-image-segmentation)
-- [3. Interactive Referring Image Segmentation](#3-interactive-referring-image-segmentation)
-- [4. Referring Video Segmentation](#4-referring-video-segmentation)
-- [5. Referring 3D Instance Segmentation](#5-referring-3d-instance-segmentation)
+- [Awesome-Referring-Image-Segmentation](#awesome-referring-image-segmentation)
+  - [1. Datasets](#1-datasets)
+  - [2. Traditional Referring Image Segmentation](#2-traditional-referring-image-segmentation)
+  - [3. Interactive Referring Image Segmentation](#3-interactive-referring-image-segmentation)
+  - [4. Referring Video Segmentation](#4-referring-video-segmentation)
+  - [5. Referring 3D Instance Segmentation](#5-referring-3d-instance-segmentation)
 
 
 ## 1. Datasets
@@ -45,11 +46,11 @@ A collection of referring image segmentation papers and datasets.
 | PolyFormer | [PolyFormer: Referring Image Segmentation as Sequential Polygon Generation](https://arxiv.org/abs/2302.07387) | CVPR 2023 | [[project]](https://polyformer.github.io/) |
 |  | [Learning From Box Annotations for Referring Image Segmentation](https://ieeexplore.ieee.org/abstract/document/9875225) | TNNLS 2022 | [[code]](https://github.com/fengguang94/Weakly-Supervised-RIS) |
 |  | [Instance-Specific Feature Propagation for Referring Segmentation](https://ieeexplore.ieee.org/abstract/document/9745353) | TMM 2022 |  |
-| LAVT | [LAVT: Language-Aware Vision Transformer for Referring Image Segmentation](https://arxiv.org/abs/2112.02244) | CVPR 2022 |  |
-| CRIS | [CRIS: CLIP-Driven Referring Image Segmentation](https://arxiv.org/abs/2111.15174) | CVPR 2022 |  |
-| ReSTR | [ReSTR: Convolution-free Referring Image Segmentation Using Transformers](https://www.microsoft.com/en-us/research/uploads/prod/2022/03/01404.pdf) | CVPR 2022 | [[project]](http://cvlab.postech.ac.kr/research/restr/) |
-| VLT | [Vision-Language Transformer and Query Generation for Referring Segmentation](https://arxiv.org/abs/2108.05565) | ICCV 2021 | [[code]](https://github.com/henghuiding/Vision-Language-Transformer) |
-| MDETR | [MDETR - Modulated Detection for End-to-End Multi-Modal Understanding](https://arxiv.org/abs/2104.12763) | ICCV 2021 | [[code]](https://github.com/ashkamath/mdetr) [[webpage]](https://ashkamath.github.io/mdetr_page/) |
+| LAVT | [LAVT: Language-Aware Vision Transformer for Referring Image Segmentation](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_LAVT_Language-Aware_Vision_Transformer_for_Referring_Image_Segmentation_CVPR_2022_paper.pdf) | CVPR 2022 | [[code]](https://github.com/yz93/LAVT-RIS) |
+| CRIS | [CRIS: CLIP-Driven Referring Image Segmentation](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_CRIS_CLIP-Driven_Referring_Image_Segmentation_CVPR_2022_paper.pdf) | CVPR 2022 | [[code]](https://github.com/DerrickWang005/CRIS.pytorch) |
+| ReSTR | [ReSTR: Convolution-free Referring Image Segmentation Using Transformers](https://openaccess.thecvf.com/content/CVPR2022/papers/Kim_ReSTR_Convolution-Free_Referring_Image_Segmentation_Using_Transformers_CVPR_2022_paper.pdf) | CVPR 2022 | [[project]](http://cvlab.postech.ac.kr/research/restr/) |
+| VLT | [Vision-Language Transformer and Query Generation for Referring Segmentation](https://openaccess.thecvf.com/content/ICCV2021/papers/Ding_Vision-Language_Transformer_and_Query_Generation_for_Referring_Segmentation_ICCV_2021_paper.pdf) | ICCV 2021 | [[code]](https://github.com/henghuiding/Vision-Language-Transformer) |
+| MDETR | [MDETR - Modulated Detection for End-to-End Multi-Modal Understanding](https://openaccess.thecvf.com/content/ICCV2021/papers/Kamath_MDETR_-_Modulated_Detection_for_End-to-End_Multi-Modal_Understanding_ICCV_2021_paper.pdf) | ICCV 2021 | [[code]](https://github.com/ashkamath/mdetr) [[project]](https://ashkamath.github.io/mdetr_page/) |
 | CEFNet | [Encoder Fusion Network with Co-Attention Embedding for Referring Image Segmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Feng_Encoder_Fusion_Network_With_Co-Attention_Embedding_for_Referring_Image_Segmentation_CVPR_2021_paper.pdf) | CVPR 2021 | [[code]](https://github.com/fengguang94/CEFNet) |
 | BUSNet | [Bottom-Up Shift and Reasoning for Referring Image Segmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Bottom-Up_Shift_and_Reasoning_for_Referring_Image_Segmentation_CVPR_2021_paper.pdf) | CVPR 2021 | [[code]](https://github.com/incredibleXM/BUSNet) |
 | LTS | [Locate then Segment: A Strong Pipeline for Referring Image Segmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Jing_Locate_Then_Segment_A_Strong_Pipeline_for_Referring_Image_Segmentation_CVPR_2021_paper.pdf) | CVPR 2021 |  |
