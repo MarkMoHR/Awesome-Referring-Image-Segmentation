@@ -43,7 +43,7 @@ A collection of referring image segmentation papers and datasets.
 | SADLR | [Semantics-Aware Dynamic Localization and Refinement for Referring Image Segmentation](https://arxiv.org/abs/2303.06345) | AAAI 2023 |  |
 | MCRES | [Meta Compositional Referring Expression Segmentation](https://arxiv.org/abs/2304.04415) | CVPR 2023 |  |
 |  | [Zero-shot Referring Image Segmentation with Global-Local Context Features](https://arxiv.org/abs/2303.17811) | CVPR 2023 | [[code]](https://github.com/Seonghoon-Yu/Zero-shot-RIS) |
-| PolyFormer | [PolyFormer: Referring Image Segmentation as Sequential Polygon Generation](https://arxiv.org/abs/2302.07387) | CVPR 2023 | [[project]](https://polyformer.github.io/) |
+| PolyFormer | [PolyFormer: Referring Image Segmentation as Sequential Polygon Generation](https://arxiv.org/abs/2302.07387) | CVPR 2023 | [[code]](https://github.com/amazon-science/polygon-transformer) [[project]](https://polyformer.github.io/) |
 |  | [Learning From Box Annotations for Referring Image Segmentation](https://ieeexplore.ieee.org/abstract/document/9875225) | TNNLS 2022 | [[code]](https://github.com/fengguang94/Weakly-Supervised-RIS) |
 |  | [Instance-Specific Feature Propagation for Referring Segmentation](https://ieeexplore.ieee.org/abstract/document/9745353) | TMM 2022 |  |
 | LAVT | [LAVT: Language-Aware Vision Transformer for Referring Image Segmentation](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_LAVT_Language-Aware_Vision_Transformer_for_Referring_Image_Segmentation_CVPR_2022_paper.pdf) | CVPR 2022 | [[code]](https://github.com/yz93/LAVT-RIS) |
