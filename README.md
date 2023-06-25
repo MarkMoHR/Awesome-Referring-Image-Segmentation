@@ -41,6 +41,7 @@ A collection of referring image segmentation papers and datasets.
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
 | SEEM | [Segment Everything Everywhere All at Once](https://arxiv.org/abs/2304.06718) | arxiv 23.04 |  |
+| WiCo | [WiCo: Win-win Cooperation of Bottom-up and Top-down Referring Image Segmentation](https://arxiv.org/abs/2306.10750) | IJCAI 2023 |  |
 | M3Att | [Multi-Modal Mutual Attention and Iterative Interaction for Referring Image Segmentation](https://ieeexplore.ieee.org/abstract/document/10132374) | TIP 2023 |  |
 | SADLR | [Semantics-Aware Dynamic Localization and Refinement for Referring Image Segmentation](https://arxiv.org/abs/2303.06345) | AAAI 2023 |  |
 | Partial-RES | [Learning to Segment Every Referring Object Point by Point](https://openaccess.thecvf.com/content/CVPR2023/papers/Qu_Learning_To_Segment_Every_Referring_Object_Point_by_Point_CVPR_2023_paper.pdf) | CVPR 2023 | [[code]](https://github.com/qumengxue/Partial-RES) |
