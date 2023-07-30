@@ -100,6 +100,7 @@ A collection of referring image segmentation papers and datasets.
 | LBDT | [Language-Bridged Spatial-Temporal Interaction for Referring Video Object Segmentation](https://openaccess.thecvf.com/content/CVPR2022/papers/Ding_Language-Bridged_Spatial-Temporal_Interaction_for_Referring_Video_Object_Segmentation_CVPR_2022_paper.pdf) | CVPR 2022 | [[code]](https://github.com/dzh19990407/LBDT) |
 |  | [Multi-Level Representation Learning with Semantic Alignment for Referring Video Object Segmentation](https://openaccess.thecvf.com/content/CVPR2022/papers/Wu_Multi-Level_Representation_Learning_With_Semantic_Alignment_for_Referring_Video_Object_CVPR_2022_paper.pdf) | CVPR 2022 |  |
 | OnlineRefer | [OnlineRefer: A Simple Online Baseline for Referring Video Object Segmentation](https://arxiv.org/abs/2307.09356) | ICCV 2023 | [[code]](https://github.com/wudongming97/OnlineRefer) |
+| SgMg | [Spectrum-guided Multi-granularity Referring Video Object Segmentation](https://arxiv.org/abs/2307.13537) | ICCV 2023 | [[code]](https://github.com/bo-miao/SgMg) |
 
 
 ## 5. Referring 3D Instance Segmentation
