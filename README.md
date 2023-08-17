@@ -33,6 +33,7 @@ A collection of referring image segmentation papers and datasets.
 | ScanRefer | [ScanRefer: 3D Object Localization in RGB-D Scans using Natural Language](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650205.pdf) | ECCV 2020 | [[project]](https://daveredrum.github.io/ScanRefer/) |
 | ClevrTex | [ClevrTex: A Texture-Rich Benchmark for Unsupervised Multi-Object Segmentation](https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/file/e2c420d928d4bf8ce0ff2ec19b371514-Paper-round2.pdf) | NeurIPS Datasets and Benchmarks 2021 | [[project]](https://www.robots.ox.ac.uk/~vgg/data/clevrtex/) |
 | gRefCOCO | [GRES: Generalized Referring Expression Segmentation](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_GRES_Generalized_Referring_Expression_Segmentation_CVPR_2023_paper.pdf) | CVPR 2023 | [[dataset]](https://github.com/henghuiding/gRefCOCO) [[project]](https://henghuiding.github.io/GRES/) |
+| MeViS | [MeViS: A Large-scale Benchmark for Video Segmentation with Motion Expressions](https://arxiv.org/abs/2308.08544) | ICCV 2023 | [[dataset]](https://github.com/henghuiding/MeViS) [[project]](https://henghuiding.github.io/MeViS/) |
 
 ---
 
@@ -94,6 +95,7 @@ A collection of referring image segmentation papers and datasets.
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
+| LMPM | [MeViS: A Large-scale Benchmark for Video Segmentation with Motion Expressions](https://arxiv.org/abs/2308.08544) | ICCV 2023 | [[code]](https://github.com/henghuiding/MeViS) [[project]](https://henghuiding.github.io/MeViS/) |
 | OnlineRefer | [OnlineRefer: A Simple Online Baseline for Referring Video Object Segmentation](https://arxiv.org/pdf/2307.09356.pdf) | ICCV 2023 | [[code]](https://github.com/wudongming97/OnlineRefer) |
 | SgMg | [Spectrum-guided Multi-granularity Referring Video Object Segmentation](https://arxiv.org/pdf/2307.13537.pdf) | ICCV 2023 | [[code]](https://github.com/bo-miao/SgMg) |
 | R2VOS | [Towards Robust Referring Video Object Segmentation with Cyclic Relational Consistency](https://arxiv.org/pdf/2207.01203.pdf) | ICCV 2023 | [[code]](https://github.com/lxa9867/R2VOS)
