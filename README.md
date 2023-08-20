@@ -44,6 +44,7 @@ A collection of referring image segmentation papers and datasets.
 | LISA | [LISA: Reasoning Segmentation via Large Language Model](https://arxiv.org/pdf/2308.00692.pdf) | arXiv 23.08 | [[code]](https://github.com/dvlab-research/LISA) |
 | ETRIS | [Bridging Vision and Language Encoders: Parameter-Efficient Tuning for Referring Image Segmentation](https://arxiv.org/pdf/2307.11545.pdf) | ICCV 2023 | [[code]](https://github.com/kkakkkka/ETRIS) |
 | SEEM | [Segment Everything Everywhere All at Once](https://arxiv.org/pdf/2304.06718.pdf) | arXiv 23.04 | [[code]](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once) |
+| SLViT | [SLViT: Scale-Wise Language-Guided Vision Transformer for Referring Image Segmentation](https://www.ijcai.org/proceedings/2023/0144.pdf) | IJCAI 2023 | [[code]](https://github.com/NaturalKnight/SLViT) |
 | WiCo | [WiCo: Win-win Cooperation of Bottom-up and Top-down Referring Image Segmentation](https://www.ijcai.org/proceedings/2023/0071.pdf) | IJCAI 2023 |  |
 | M3Att | [Multi-Modal Mutual Attention and Iterative Interaction for Referring Image Segmentation](https://ieeexplore.ieee.org/abstract/document/10132374) | TIP 2023 |  |
 | X-Decoder | [X-Decoder: Generalized Decoding for Pixel, Image and Language](https://openaccess.thecvf.com/content/CVPR2023/papers/Zou_Generalized_Decoding_for_Pixel_Image_and_Language_CVPR_2023_paper.pdf) | CVPR 2023 | [[code]](https://github.com/microsoft/X-Decoder) [[project]](https://x-decoder-vl.github.io/) |
