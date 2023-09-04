@@ -43,6 +43,7 @@ A collection of referring image segmentation papers and datasets.
 | --- | --- | --- | --- |
 | LISA | [LISA: Reasoning Segmentation via Large Language Model](https://arxiv.org/pdf/2308.00692.pdf) | arXiv 23.08 | [[code]](https://github.com/dvlab-research/LISA) |
 | BKINet | [Bilateral Knowledge Interaction Network for Referring Image Segmentation](https://ieeexplore.ieee.org/abstract/document/10227590) | TMM 2023 | [[code]](https://github.com/dhding/BKINet) |
+|  | [Shatter and Gather: Learning Referring Image Segmentation with Text Supervision](https://arxiv.org/abs/2308.15512) | ICCV 2023 |  |
 | TRIS | [Referring Image Segmentation Using Text Supervision](https://arxiv.org/abs/2308.14575) | ICCV 2023 | [[code]](https://github.com/fawnliu/TRIS) |
 | RIS-DMMI | [Beyond One-to-One: Rethinking the Referring Image Segmentation](https://arxiv.org/abs/2308.13853) | ICCV 2023 | [[code]](https://github.com/toggle1995/RIS-DMMI) |
 | ETRIS | [Bridging Vision and Language Encoders: Parameter-Efficient Tuning for Referring Image Segmentation](https://arxiv.org/pdf/2307.11545.pdf) | ICCV 2023 | [[code]](https://github.com/kkakkkka/ETRIS) |
