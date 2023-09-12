@@ -101,6 +101,7 @@ A collection of referring image segmentation papers and datasets.
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
+| TempCD | [Temporal Collection and Distribution for Referring Video Object Segmentation](https://arxiv.org/abs/2309.03473) | ICCV 2023 | [[project]](https://toneyaya.github.io/tempcd/) [[code]](https://github.com/Toneyaya/TempCD) |
 | HTML | [HTML: Hybrid Temporal-scale Multimodal Learning Framework for Referring Video Object Segmentation](https://mingfei.info/) | ICCV 2023 | [[project]](https://mingfei.info/HTML) |
 | LMPM | [MeViS: A Large-scale Benchmark for Video Segmentation with Motion Expressions](https://arxiv.org/abs/2308.08544) | ICCV 2023 | [[code]](https://github.com/henghuiding/MeViS) [[project]](https://henghuiding.github.io/MeViS/) |
 | OnlineRefer | [OnlineRefer: A Simple Online Baseline for Referring Video Object Segmentation](https://arxiv.org/pdf/2307.09356.pdf) | ICCV 2023 | [[code]](https://github.com/wudongming97/OnlineRefer) |
