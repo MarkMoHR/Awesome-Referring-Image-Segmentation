@@ -42,6 +42,9 @@ A collection of referring image segmentation papers and datasets.
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
 | LISA | [LISA: Reasoning Segmentation via Large Language Model](https://arxiv.org/pdf/2308.00692.pdf) | arXiv 23.08 | [[code]](https://github.com/dvlab-research/LISA) |
+| CVMN | [Unsupervised Domain Adaptation for Referring Semantic Segmentation](https://dl.acm.org/doi/abs/10.1145/3581783.3611879) | ACM MM 2023 | [[code]](https://github.com/asudahkzj/CVMN) |
+| CARIS | [CARIS: Context-Aware Referring Image Segmentation](https://dl.acm.org/doi/abs/10.1145/3581783.3612117) | ACM MM 2023 | [[code]](https://github.com/lsa1997/CARIS) |
+| TAS | [Text Augmented Spatial-aware Zero-shot Referring Image Segmentation](https://arxiv.org/abs/2310.18049) | EMNLP 2023 |  |
 | BKINet | [Bilateral Knowledge Interaction Network for Referring Image Segmentation](https://ieeexplore.ieee.org/abstract/document/10227590) | TMM 2023 | [[code]](https://github.com/dhding/BKINet) |
 | Group-RES | [Advancing Referring Expression Segmentation Beyond Single Image](https://arxiv.org/abs/2305.12452) | ICCV 2023 | [[code]](https://github.com/yixuan730/group-res) |
 |  | [Weakly Supervised Referring Image Segmentation with Intra-Chunk and Inter-Chunk Consistency](https://openaccess.thecvf.com/content/ICCV2023/papers/Lee_Weakly_Supervised_Referring_Image_Segmentation_with_Intra-Chunk_and_Inter-Chunk_Consistency_ICCV_2023_paper.pdf) | ICCV 2023 |  |
