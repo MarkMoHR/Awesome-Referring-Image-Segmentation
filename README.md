@@ -42,6 +42,7 @@ A collection of referring image segmentation papers and datasets.
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
 | LISA | [LISA: Reasoning Segmentation via Large Language Model](https://arxiv.org/pdf/2308.00692.pdf) | arXiv 23.08 | [[code]](https://github.com/dvlab-research/LISA) |
+| JMCELN | [Referring Image Segmentation via Joint Mask Contextual Embedding Learning and Progressive Alignment Network](https://aclanthology.org/2023.emnlp-main.481/) | EMNLP 2023 | [[code]](https://github.com/toyottttttt/referring-segmentation) |
 | CVMN | [Unsupervised Domain Adaptation for Referring Semantic Segmentation](https://dl.acm.org/doi/abs/10.1145/3581783.3611879) | ACM MM 2023 | [[code]](https://github.com/asudahkzj/CVMN) |
 | CARIS | [CARIS: Context-Aware Referring Image Segmentation](https://dl.acm.org/doi/abs/10.1145/3581783.3612117) | ACM MM 2023 | [[code]](https://github.com/lsa1997/CARIS) |
 | TAS | [Text Augmented Spatial-aware Zero-shot Referring Image Segmentation](https://arxiv.org/abs/2310.18049) | EMNLP 2023 |  |
