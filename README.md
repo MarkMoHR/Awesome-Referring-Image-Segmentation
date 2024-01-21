@@ -106,6 +106,7 @@ A collection of referring image segmentation papers and datasets.
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
+| Locater | [Local-Global Context Aware Transformer for Language-Guided Video Segmentation](https://ieeexplore.ieee.org/abstract/document/10083244) | TPAMI 2023 | [[code]](https://github.com/leonnnop/Locater) [[dataset]](https://github.com/leonnnop/Locater) |
 | TempCD | [Temporal Collection and Distribution for Referring Video Object Segmentation](https://arxiv.org/abs/2309.03473) | ICCV 2023 | [[project]](https://toneyaya.github.io/tempcd/) [[code]](https://github.com/Toneyaya/TempCD) |
 | HTML | [HTML: Hybrid Temporal-scale Multimodal Learning Framework for Referring Video Object Segmentation](https://mingfei.info/) | ICCV 2023 | [[project]](https://mingfei.info/HTML) |
 | LMPM | [MeViS: A Large-scale Benchmark for Video Segmentation with Motion Expressions](https://arxiv.org/abs/2308.08544) | ICCV 2023 | [[code]](https://github.com/henghuiding/MeViS) [[project]](https://henghuiding.github.io/MeViS/) |
@@ -118,6 +119,8 @@ A collection of referring image segmentation papers and datasets.
 | LBDT | [Language-Bridged Spatial-Temporal Interaction for Referring Video Object Segmentation](https://openaccess.thecvf.com/content/CVPR2022/papers/Ding_Language-Bridged_Spatial-Temporal_Interaction_for_Referring_Video_Object_Segmentation_CVPR_2022_paper.pdf) | CVPR 2022 | [[code]](https://github.com/dzh19990407/LBDT) |
 | - | [Multi-Level Representation Learning with Semantic Alignment for Referring Video Object Segmentation](https://openaccess.thecvf.com/content/CVPR2022/papers/Wu_Multi-Level_Representation_Learning_With_Semantic_Alignment_for_Referring_Video_Object_CVPR_2022_paper.pdf) | CVPR 2022 |  |
 | YOFO | [You Only Infer Once: Cross-Modal Meta-Transfer for Referring Video Object Segmentation](https://ojs.aaai.org/index.php/AAAI/article/download/20017/19776) | AAAI 2022 | |
+| CITD | [Rethinking Cross-modal Interaction from a Top-down Perspective for Referring Video Object Segmentation](https://arxiv.org/abs/2106.01061) | CVPRW 2021 |  |
+| ClawCraneNet | [ClawCraneNet: Leveraging Object-level Relation for Text-based Video Segmentation](https://arxiv.org/abs/2103.10702) | arXiv 21.03 |  |
 | RefVOS | [RefVOS: A Closer Look at Referring Expressions for Video Object Segmentation](https://arxiv.org/pdf/2010.00263.pdf) | arXiv 20.10 |  |
 | URVOS | [URVOS: Unified Referring Video Object Segmentation Network with a Large-Scale Benchmark](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123600205.pdf) | ECCV 2020 | [[code]](https://github.com/skynbe/Refer-Youtube-VOS) |
 |  | [Video Object Segmentation with Language Referring Expressions](https://link.springer.com/chapter/10.1007/978-3-030-20870-7_8) | ACCV 2018 |  |
