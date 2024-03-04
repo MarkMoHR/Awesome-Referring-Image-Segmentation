@@ -41,6 +41,7 @@ A collection of referring image segmentation papers and datasets.
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
+|  | [Towards Robust Referring Image Segmentation](https://arxiv.org/abs/2209.09554) | TIP 2024 | [[code]](https://github.com/jianzongwu/robust-ref-seg) |
 | LISA | [LISA: Reasoning Segmentation via Large Language Model](https://arxiv.org/pdf/2308.00692.pdf) | arXiv 23.08 | [[code]](https://github.com/dvlab-research/LISA) |
 | JMCELN | [Referring Image Segmentation via Joint Mask Contextual Embedding Learning and Progressive Alignment Network](https://aclanthology.org/2023.emnlp-main.481/) | EMNLP 2023 | [[code]](https://github.com/toyottttttt/referring-segmentation) |
 | CVMN | [Unsupervised Domain Adaptation for Referring Semantic Segmentation](https://dl.acm.org/doi/abs/10.1145/3581783.3611879) | ACM MM 2023 | [[code]](https://github.com/asudahkzj/CVMN) |
@@ -106,6 +107,7 @@ A collection of referring image segmentation papers and datasets.
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
+| SOC | [SOC: Semantic-Assisted Object Cluster for Referring Video Object Segmentation](https://proceedings.neurips.cc/paper_files/paper/2023/file/542c14ff4622e45384df40dc97b9cf90-Paper-Conference.pdf) | NeurIPS  2023 | [[code]](https://github.com/RobertLuo1/NeurIPS2023_SOC) |
 | Locater | [Local-Global Context Aware Transformer for Language-Guided Video Segmentation](https://ieeexplore.ieee.org/abstract/document/10083244) | TPAMI 2023 | [[code]](https://github.com/leonnnop/Locater) [[dataset]](https://github.com/leonnnop/Locater) |
 | TempCD | [Temporal Collection and Distribution for Referring Video Object Segmentation](https://arxiv.org/abs/2309.03473) | ICCV 2023 | [[project]](https://toneyaya.github.io/tempcd/) [[code]](https://github.com/Toneyaya/TempCD) |
 | HTML | [HTML: Hybrid Temporal-scale Multimodal Learning Framework for Referring Video Object Segmentation](https://mingfei.info/) | ICCV 2023 | [[project]](https://mingfei.info/HTML) |
