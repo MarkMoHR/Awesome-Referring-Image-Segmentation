@@ -41,6 +41,7 @@ A collection of referring image segmentation papers and datasets.
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
+| MagNet | [Mask Grounding for Referring Image Segmentation](https://arxiv.org/abs/2312.12198) | CVPR 2024 | [[webpage]](https://yxchng.github.io/projects/mask-grounding/) |
 |  | [Towards Robust Referring Image Segmentation](https://arxiv.org/abs/2209.09554) | TIP 2024 | [[code]](https://github.com/jianzongwu/robust-ref-seg) |
 | LISA | [LISA: Reasoning Segmentation via Large Language Model](https://arxiv.org/pdf/2308.00692.pdf) | arXiv 23.08 | [[code]](https://github.com/dvlab-research/LISA) |
 | JMCELN | [Referring Image Segmentation via Joint Mask Contextual Embedding Learning and Progressive Alignment Network](https://aclanthology.org/2023.emnlp-main.481/) | EMNLP 2023 | [[code]](https://github.com/toyottttttt/referring-segmentation) |
