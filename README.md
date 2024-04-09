@@ -14,36 +14,46 @@ A collection of referring image segmentation papers and datasets.
 
 - [Awesome-Referring-Image-Segmentation](#awesome-referring-image-segmentation)
   - [1. Datasets](#1-datasets)
-  - [2. Traditional Referring Image Segmentation](#2-traditional-referring-image-segmentation)
-  - [3. Interactive Referring Image Segmentation](#3-interactive-referring-image-segmentation)
-  - [4. Referring Video Object Segmentation](#4-referring-video-object-segmentation)
-  - [5. Referring 3D Instance Segmentation](#5-referring-3d-instance-segmentation)
+  - [2. Challenges](#2-challenges)
+  - [3. Traditional Referring Image Segmentation](#3-traditional-referring-image-segmentation)
+  - [4. Interactive Referring Image Segmentation](#4-interactive-referring-image-segmentation)
+  - [5. Referring Video Object Segmentation](#5-referring-video-object-segmentation)
+  - [6. Referring 3D Instance Segmentation](#6-referring-3d-instance-segmentation)
 
 
 ## 1. Datasets
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
-| ReferIt | [Referit game: Referring to objects in photographs of natural scenes](https://aclanthology.org/D14-1086.pdf) | EMNLP 2014 | [[project]](http://tamaraberg.com/referitgame/) |
-| Google-Ref | [Generation and comprehension of unambiguous object descriptions](https://openaccess.thecvf.com/content_cvpr_2016/papers/Mao_Generation_and_Comprehension_CVPR_2016_paper.pdf) | CVPR 2016 | [[dataset]](https://github.com/mjhucla/Google_Refexp_toolbox) |
+| MeViS | [MeViS: A Large-scale Benchmark for Video Segmentation with Motion Expressions](https://arxiv.org/abs/2308.08544) | ICCV 2023 | [[dataset]](https://github.com/henghuiding/MeViS) [[project]](https://henghuiding.github.io/MeViS/) |
+| gRefCOCO | [GRES: Generalized Referring Expression Segmentation](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_GRES_Generalized_Referring_Expression_Segmentation_CVPR_2023_paper.pdf) | CVPR 2023 | [[dataset]](https://github.com/henghuiding/gRefCOCO) [[project]](https://henghuiding.github.io/GRES/) |
+| ClevrTex | [ClevrTex: A Texture-Rich Benchmark for Unsupervised Multi-Object Segmentation](https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/file/e2c420d928d4bf8ce0ff2ec19b371514-Paper-round2.pdf) | NeurIPS Datasets and Benchmarks 2021 | [[project]](https://www.robots.ox.ac.uk/~vgg/data/clevrtex/) |
+| ScanRefer | [ScanRefer: 3D Object Localization in RGB-D Scans using Natural Language](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650205.pdf) | ECCV 2020 | [[project]](https://daveredrum.github.io/ScanRefer/) |
+| VGPhraseCut | [PhraseCut: Language-based Image Segmentation in the Wild](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wu_PhraseCut_Language-Based_Image_Segmentation_in_the_Wild_CVPR_2020_paper.pdf) | CVPR 2020 | [[project]](https://people.cs.umass.edu/~chenyun/phrasecut/) |
+| CLEVR-Ref+ | [CLEVR-Ref+: Diagnosing Visual Reasoning with Referring Expressions](https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_CLEVR-Ref_Diagnosing_Visual_Reasoning_With_Referring_Expressions_CVPR_2019_paper.pdf) | CVPR 2019 | [[project]](https://cs.jhu.edu/~cxliu/2019/clevr-ref+) |
 | UNC | [Modeling context in referring expressions](https://arxiv.org/pdf/1608.00272.pdf) | ECCV 2016 | [[dataset]](https://github.com/lichengunc/refer) |
 | UNC+ | [Modeling context in referring expressions](https://arxiv.org/pdf/1608.00272.pdf) | ECCV 2016 | [[dataset]](https://github.com/lichengunc/refer) |
-| CLEVR-Ref+ | [CLEVR-Ref+: Diagnosing Visual Reasoning with Referring Expressions](https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_CLEVR-Ref_Diagnosing_Visual_Reasoning_With_Referring_Expressions_CVPR_2019_paper.pdf) | CVPR 2019 | [[project]](https://cs.jhu.edu/~cxliu/2019/clevr-ref+) |
-| VGPhraseCut | [PhraseCut: Language-based Image Segmentation in the Wild](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wu_PhraseCut_Language-Based_Image_Segmentation_in_the_Wild_CVPR_2020_paper.pdf) | CVPR 2020 | [[project]](https://people.cs.umass.edu/~chenyun/phrasecut/) |
-| ScanRefer | [ScanRefer: 3D Object Localization in RGB-D Scans using Natural Language](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650205.pdf) | ECCV 2020 | [[project]](https://daveredrum.github.io/ScanRefer/) |
-| ClevrTex | [ClevrTex: A Texture-Rich Benchmark for Unsupervised Multi-Object Segmentation](https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/file/e2c420d928d4bf8ce0ff2ec19b371514-Paper-round2.pdf) | NeurIPS Datasets and Benchmarks 2021 | [[project]](https://www.robots.ox.ac.uk/~vgg/data/clevrtex/) |
-| gRefCOCO | [GRES: Generalized Referring Expression Segmentation](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_GRES_Generalized_Referring_Expression_Segmentation_CVPR_2023_paper.pdf) | CVPR 2023 | [[dataset]](https://github.com/henghuiding/gRefCOCO) [[project]](https://henghuiding.github.io/GRES/) |
-| MeViS | [MeViS: A Large-scale Benchmark for Video Segmentation with Motion Expressions](https://arxiv.org/abs/2308.08544) | ICCV 2023 | [[dataset]](https://github.com/henghuiding/MeViS) [[project]](https://henghuiding.github.io/MeViS/) |
+| Google-Ref | [Generation and comprehension of unambiguous object descriptions](https://openaccess.thecvf.com/content_cvpr_2016/papers/Mao_Generation_and_Comprehension_CVPR_2016_paper.pdf) | CVPR 2016 | [[dataset]](https://github.com/mjhucla/Google_Refexp_toolbox) |
+| ReferIt | [Referit game: Referring to objects in photographs of natural scenes](https://aclanthology.org/D14-1086.pdf) | EMNLP 2014 | [[project]](http://tamaraberg.com/referitgame/) |
 
----
+## 2. Challenges
+| Name | Workshop | Date | Submission Link  |
+| --- | --- | --- | --- |
+| [1st MeViS Challenge](https://henghuiding.github.io/MeViS/ChallengeCVPR2024) | CVPR 2024 Workshop: [Pixel-level Video Understanding in the Wild](https://www.vspwdataset.com/Workshop2024.html) | May 2024| [[CodaLab]](https://codalab.lisn.upsaclay.fr/competitions/15094) |
 
-## 2. Traditional Referring Image Segmentation
+
+
+
+## 3. Traditional Referring Image Segmentation
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
+| GSVA | [GSVA: Generalized Segmentation via Multimodal Large Language Models](https://arxiv.org/abs/2312.10103) | CVPR 2024 | [[code]](https://github.com/LeapLabTHU/GSVA) |
+| RMSIN | [Rotated Multi-Scale Interaction Network for Referring Remote Sensing Image Segmentation](https://arxiv.org/abs/2312.12470) | CVPR 2024 | [[code]](https://github.com/Lsan2401/RMSIN) |
+| MRES | [Unveiling Parts Beyond Objects: Towards Finer-Granularity Referring Expression Segmentation](https://arxiv.org/abs/2312.08007) | CVPR 2024 |[[code]](https://github.com/Rubics-Xuan/MRES) |
 | MagNet | [Mask Grounding for Referring Image Segmentation](https://arxiv.org/abs/2312.12198) | CVPR 2024 | [[webpage]](https://yxchng.github.io/projects/mask-grounding/) |
-|  | [Towards Robust Referring Image Segmentation](https://arxiv.org/abs/2209.09554) | TIP 2024 | [[code]](https://github.com/jianzongwu/robust-ref-seg) |
-| LISA | [LISA: Reasoning Segmentation via Large Language Model](https://arxiv.org/pdf/2308.00692.pdf) | arXiv 23.08 | [[code]](https://github.com/dvlab-research/LISA) |
+| RefSegformer | [Towards Robust Referring Image Segmentation](https://arxiv.org/abs/2209.09554) | TIP 2024 | [[code]](https://github.com/jianzongwu/robust-ref-seg) |
+| LISA | [LISA: Reasoning Segmentation via Large Language Model](https://arxiv.org/pdf/2308.00692.pdf) | CVPR 2024 | [[code]](https://github.com/dvlab-research/LISA) |
 | JMCELN | [Referring Image Segmentation via Joint Mask Contextual Embedding Learning and Progressive Alignment Network](https://aclanthology.org/2023.emnlp-main.481/) | EMNLP 2023 | [[code]](https://github.com/toyottttttt/referring-segmentation) |
 | CVMN | [Unsupervised Domain Adaptation for Referring Semantic Segmentation](https://dl.acm.org/doi/abs/10.1145/3581783.3611879) | ACM MM 2023 | [[code]](https://github.com/asudahkzj/CVMN) |
 | CARIS | [CARIS: Context-Aware Referring Image Segmentation](https://dl.acm.org/doi/abs/10.1145/3581783.3612117) | ACM MM 2023 | [[code]](https://github.com/lsa1997/CARIS) |
@@ -97,18 +107,19 @@ A collection of referring image segmentation papers and datasets.
 | LSTM-CNN | [Segmentation from natural language expressions](https://arxiv.org/pdf/1603.06180.pdf) | ECCV 2016 | [[code]](https://github.com/ronghanghu/text_objseg) [[project]](http://ronghanghu.com/text_objseg/) |
 
 
-## 3. Interactive Referring Image Segmentation
+## 4. Interactive Referring Image Segmentation
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
 | PhraseClick | [PhraseClick: Toward Achieving Flexible Interactive Segmentation by Phrase and Click](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480426.pdf) | ECCV 2020 |  |
 
 
-## 4. Referring Video Object Segmentation
+## 5. Referring Video Object Segmentation
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
 | DsHmp | [Decoupling Static and Hierarchical Motion Perception for Referring Video Segmentation](https://arxiv.org/abs/2404.03645) | CVPR 2024 | [[code]](https://github.com/heshuting555/DsHmp) |
+| LoSh | [LoSh: Long-Short Text Joint Prediction Network for Referring Video Object Segmentation](https://arxiv.org/abs/2306.08736) | CVPR 2024 | [[code]](https://github.com/LinfengYuan1997/Losh) |
 | SOC | [SOC: Semantic-Assisted Object Cluster for Referring Video Object Segmentation](https://proceedings.neurips.cc/paper_files/paper/2023/file/542c14ff4622e45384df40dc97b9cf90-Paper-Conference.pdf) | NeurIPS  2023 | [[code]](https://github.com/RobertLuo1/NeurIPS2023_SOC) |
 | Locater | [Local-Global Context Aware Transformer for Language-Guided Video Segmentation](https://ieeexplore.ieee.org/abstract/document/10083244) | TPAMI 2023 | [[code]](https://github.com/leonnnop/Locater) [[dataset]](https://github.com/leonnnop/Locater) |
 | TempCD | [Temporal Collection and Distribution for Referring Video Object Segmentation](https://arxiv.org/abs/2309.03473) | ICCV 2023 | [[project]](https://toneyaya.github.io/tempcd/) [[code]](https://github.com/Toneyaya/TempCD) |
@@ -130,7 +141,7 @@ A collection of referring image segmentation papers and datasets.
 |  | [Video Object Segmentation with Language Referring Expressions](https://link.springer.com/chapter/10.1007/978-3-030-20870-7_8) | ACCV 2018 |  |
 
 
-## 5. Referring 3D Instance Segmentation
+## 6. Referring 3D Instance Segmentation
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
