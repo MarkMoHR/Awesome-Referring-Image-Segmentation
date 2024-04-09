@@ -108,6 +108,7 @@ A collection of referring image segmentation papers and datasets.
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
+| DsHmp | [Decoupling Static and Hierarchical Motion Perception for Referring Video Segmentation](https://arxiv.org/abs/2404.03645) | CVPR 2024 | [[code]](https://github.com/heshuting555/DsHmp) |
 | SOC | [SOC: Semantic-Assisted Object Cluster for Referring Video Object Segmentation](https://proceedings.neurips.cc/paper_files/paper/2023/file/542c14ff4622e45384df40dc97b9cf90-Paper-Conference.pdf) | NeurIPS  2023 | [[code]](https://github.com/RobertLuo1/NeurIPS2023_SOC) |
 | Locater | [Local-Global Context Aware Transformer for Language-Guided Video Segmentation](https://ieeexplore.ieee.org/abstract/document/10083244) | TPAMI 2023 | [[code]](https://github.com/leonnnop/Locater) [[dataset]](https://github.com/leonnnop/Locater) |
 | TempCD | [Temporal Collection and Distribution for Referring Video Object Segmentation](https://arxiv.org/abs/2309.03473) | ICCV 2023 | [[project]](https://toneyaya.github.io/tempcd/) [[code]](https://github.com/Toneyaya/TempCD) |
