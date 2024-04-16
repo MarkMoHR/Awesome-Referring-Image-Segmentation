@@ -48,9 +48,10 @@ A collection of referring image segmentation papers and datasets.
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
+| CM-MaskSD | [CM-MaskSD: Cross-Modality Masked Self-Distillation for Referring Image Segmentation](https://arxiv.org/abs/2305.11481) | TMM 2024 |  |
 | GSVA | [GSVA: Generalized Segmentation via Multimodal Large Language Models](https://arxiv.org/abs/2312.10103) | CVPR 2024 | [[code]](https://github.com/LeapLabTHU/GSVA) |
 | RMSIN | [Rotated Multi-Scale Interaction Network for Referring Remote Sensing Image Segmentation](https://arxiv.org/abs/2312.12470) | CVPR 2024 | [[code]](https://github.com/Lsan2401/RMSIN) |
-| MRES | [Unveiling Parts Beyond Objects: Towards Finer-Granularity Referring Expression Segmentation](https://arxiv.org/abs/2312.08007) | CVPR 2024 |[[code]](https://github.com/Rubics-Xuan/MRES) |
+| MRES | [Unveiling Parts Beyond Objects: Towards Finer-Granularity Referring Expression Segmentation](https://arxiv.org/abs/2312.08007) | CVPR 2024 |[[code]](https://github.com/Rubics-Xuan/MRES) [[webpage]](https://rubics-xuan.github.io/MRES/) |
 | MagNet | [Mask Grounding for Referring Image Segmentation](https://arxiv.org/abs/2312.12198) | CVPR 2024 | [[webpage]](https://yxchng.github.io/projects/mask-grounding/) |
 | RefSegformer | [Towards Robust Referring Image Segmentation](https://arxiv.org/abs/2209.09554) | TIP 2024 | [[code]](https://github.com/jianzongwu/robust-ref-seg) |
 | LISA | [LISA: Reasoning Segmentation via Large Language Model](https://arxiv.org/pdf/2308.00692.pdf) | CVPR 2024 | [[code]](https://github.com/dvlab-research/LISA) |
