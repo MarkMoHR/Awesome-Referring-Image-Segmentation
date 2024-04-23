@@ -49,6 +49,7 @@ A collection of referring image segmentation papers and datasets.
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
 | CM-MaskSD | [CM-MaskSD: Cross-Modality Masked Self-Distillation for Referring Image Segmentation](https://arxiv.org/abs/2305.11481) | TMM 2024 |  |
+| PPT | [Curriculum Point Prompting for Weakly-Supervised Referring Image Segmentation](https://arxiv.org/abs/2404.11998) | CVPR 2024 |  |
 | GSVA | [GSVA: Generalized Segmentation via Multimodal Large Language Models](https://arxiv.org/abs/2312.10103) | CVPR 2024 | [[code]](https://github.com/LeapLabTHU/GSVA) |
 | RMSIN | [Rotated Multi-Scale Interaction Network for Referring Remote Sensing Image Segmentation](https://arxiv.org/abs/2312.12470) | CVPR 2024 | [[code]](https://github.com/Lsan2401/RMSIN) |
 | MRES | [Unveiling Parts Beyond Objects: Towards Finer-Granularity Referring Expression Segmentation](https://arxiv.org/abs/2312.08007) | CVPR 2024 |[[code]](https://github.com/Rubics-Xuan/MRES) [[webpage]](https://rubics-xuan.github.io/MRES/) |
