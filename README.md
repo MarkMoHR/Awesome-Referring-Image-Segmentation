@@ -49,13 +49,15 @@ A collection of referring image segmentation papers and datasets.
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
 | CM-MaskSD | [CM-MaskSD: Cross-Modality Masked Self-Distillation for Referring Image Segmentation](https://arxiv.org/abs/2305.11481) | TMM 2024 |  |
+| Prompt-RIS | [Prompt-Driven Referring Image Segmentation with Instance Contrasting](https://openaccess.thecvf.com/content/CVPR2024/papers/Shang_Prompt-Driven_Referring_Image_Segmentation_with_Instance_Contrasting_CVPR_2024_paper.pdf) | CVPR 2024 |  |
+| LQMFormer | [LQMFormer: Language-aware Query Mask Transformer for Referring Image Segmentation](https://openaccess.thecvf.com/content/CVPR2024/papers/Shah_LQMFormer_Language-aware_Query_Mask_Transformer_for_Referring_Image_Segmentation_CVPR_2024_paper.pdf) | CVPR 2024 |  |
 | PPT | [Curriculum Point Prompting for Weakly-Supervised Referring Image Segmentation](https://arxiv.org/abs/2404.11998) | CVPR 2024 |  |
 | GSVA | [GSVA: Generalized Segmentation via Multimodal Large Language Models](https://arxiv.org/abs/2312.10103) | CVPR 2024 | [[code]](https://github.com/LeapLabTHU/GSVA) |
 | RMSIN | [Rotated Multi-Scale Interaction Network for Referring Remote Sensing Image Segmentation](https://arxiv.org/abs/2312.12470) | CVPR 2024 | [[code]](https://github.com/Lsan2401/RMSIN) |
 | MRES | [Unveiling Parts Beyond Objects: Towards Finer-Granularity Referring Expression Segmentation](https://arxiv.org/abs/2312.08007) | CVPR 2024 |[[code]](https://github.com/Rubics-Xuan/MRES) [[webpage]](https://rubics-xuan.github.io/MRES/) |
 | MagNet | [Mask Grounding for Referring Image Segmentation](https://arxiv.org/abs/2312.12198) | CVPR 2024 | [[webpage]](https://yxchng.github.io/projects/mask-grounding/) |
-| RefSegformer | [Towards Robust Referring Image Segmentation](https://arxiv.org/abs/2209.09554) | TIP 2024 | [[code]](https://github.com/jianzongwu/robust-ref-seg) |
 | LISA | [LISA: Reasoning Segmentation via Large Language Model](https://arxiv.org/pdf/2308.00692.pdf) | CVPR 2024 | [[code]](https://github.com/dvlab-research/LISA) |
+| RefSegformer | [Towards Robust Referring Image Segmentation](https://arxiv.org/abs/2209.09554) | TIP 2024 | [[code]](https://github.com/jianzongwu/robust-ref-seg) |
 | JMCELN | [Referring Image Segmentation via Joint Mask Contextual Embedding Learning and Progressive Alignment Network](https://aclanthology.org/2023.emnlp-main.481/) | EMNLP 2023 | [[code]](https://github.com/toyottttttt/referring-segmentation) |
 | CVMN | [Unsupervised Domain Adaptation for Referring Semantic Segmentation](https://dl.acm.org/doi/abs/10.1145/3581783.3611879) | ACM MM 2023 | [[code]](https://github.com/asudahkzj/CVMN) |
 | CARIS | [CARIS: Context-Aware Referring Image Segmentation](https://dl.acm.org/doi/abs/10.1145/3581783.3612117) | ACM MM 2023 | [[code]](https://github.com/lsa1997/CARIS) |
