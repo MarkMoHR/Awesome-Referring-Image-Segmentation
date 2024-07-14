@@ -48,6 +48,7 @@ A collection of referring image segmentation papers and datasets.
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
+| Pseudo-RIS | [Pseudo-RIS: Distinctive Pseudo-supervision Generation for Referring Image Segmentation](https://arxiv.org/abs/2407.07412) | ECCV 2024 | [[code]](https://github.com/Seonghoon-Yu/Pseudo-RIS) |
 | SafaRi | [SafaRi: Adaptive Sequence Transformer for Weakly Supervised Referring Expression Segmentation](https://arxiv.org/abs/2407.02389) | ECCV 2024 | [[webpage]](https://sayannag.github.io/safari_eccv2024/) |
 | CM-MaskSD | [CM-MaskSD: Cross-Modality Masked Self-Distillation for Referring Image Segmentation](https://arxiv.org/abs/2305.11481) | TMM 2024 |  |
 | Prompt-RIS | [Prompt-Driven Referring Image Segmentation with Instance Contrasting](https://openaccess.thecvf.com/content/CVPR2024/papers/Shang_Prompt-Driven_Referring_Image_Segmentation_with_Instance_Contrasting_CVPR_2024_paper.pdf) | CVPR 2024 |  |
