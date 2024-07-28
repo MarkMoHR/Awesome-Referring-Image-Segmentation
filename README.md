@@ -18,7 +18,7 @@ A collection of referring image segmentation papers and datasets.
   - [3. Traditional Referring Image Segmentation](#3-traditional-referring-image-segmentation)
   - [4. Interactive Referring Image Segmentation](#4-interactive-referring-image-segmentation)
   - [5. Referring Video Object Segmentation](#5-referring-video-object-segmentation)
-  - [6. Referring 3D Instance Segmentation](#6-referring-3d-instance-segmentation)
+  - [6. 3D Referring Segmentation](#6-3d-referring-segmentation)
 
 
 ## 1. Datasets
@@ -40,6 +40,7 @@ A collection of referring image segmentation papers and datasets.
 | Name | Workshop | Date | Submission Link  |
 | --- | --- | --- | --- |
 | [1st MeViS Challenge](https://henghuiding.github.io/MeViS/ChallengeCVPR2024) | CVPR 2024 Workshop: [Pixel-level Video Understanding in the Wild](https://www.vspwdataset.com/Workshop2024.html) | May 2024| [[CodaLab]](https://codalab.lisn.upsaclay.fr/competitions/15094) |
+| [RVOS Challenge](https://henghuiding.github.io/MeViS/) | ECCV 2024 Workshop: [The 6th Large-scale Video Object Segmentation Challenge](https://lsvos.github.io/) | Aug 2024| [[CodaLab]](https://codalab.lisn.upsaclay.fr/competitions/19583) |
 
 
 
@@ -147,10 +148,12 @@ A collection of referring image segmentation papers and datasets.
 |  | [Video Object Segmentation with Language Referring Expressions](https://link.springer.com/chapter/10.1007/978-3-030-20870-7_8) | ACCV 2018 |  |
 
 
-## 6. Referring 3D Instance Segmentation
+## 6. 3D Referring Segmentation
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
+| SegPoint | [SegPoint: Segment Any Point Cloud via Large Language Model](https://arxiv.org/abs/2407.13761) | ECCV 2024 | [[project]](https://heshuting555.github.io/SegPoint) |
+| RefMask3D | [RefMask3D: Language-Guided Transformer for 3D Referring Segmentation](https://arxiv.org/abs/2407.18244) | ACM MM 2024 | [[code]](https://github.com/heshuting555/RefMask3D) |
 | TGNN | [Text-Guided Graph Neural Networks for Referring 3D Instance Segmentation](https://ojs.aaai.org/index.php/AAAI/article/view/16253/16060) | AAAI 2021 |  |
 | InstanceRefer | [InstanceRefer: Cooperative Holistic Understanding for Visual Grounding on Point Clouds through Instance Multi-level Contextual Referring](https://openaccess.thecvf.com/content/ICCV2021/papers/Yuan_InstanceRefer_Cooperative_Holistic_Understanding_for_Visual_Grounding_on_Point_Clouds_ICCV_2021_paper.pdf) | ICCV 2021 | [[code]](https://github.com/CurryYuan/InstanceRefer) |
 
