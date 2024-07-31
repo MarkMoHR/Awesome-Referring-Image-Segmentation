@@ -154,6 +154,7 @@ A collection of referring image segmentation papers and datasets.
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
 | SegPoint | [SegPoint: Segment Any Point Cloud via Large Language Model](https://arxiv.org/abs/2407.13761) | ECCV 2024 | [[project]](https://heshuting555.github.io/SegPoint) |
+| 3D-GRES | [3D-GRES: Generalized 3D Referring Expression Segmentation](https://arxiv.org/abs/2407.20664) | ACM MM 2024 | [[code]](https://github.com/sosppxo/3D-GRES) |
 | RefMask3D | [RefMask3D: Language-Guided Transformer for 3D Referring Segmentation](https://arxiv.org/abs/2407.18244) | ACM MM 2024 | [[code]](https://github.com/heshuting555/RefMask3D) |
 | TGNN | [Text-Guided Graph Neural Networks for Referring 3D Instance Segmentation](https://ojs.aaai.org/index.php/AAAI/article/view/16253/16060) | AAAI 2021 |  |
 | InstanceRefer | [InstanceRefer: Cooperative Holistic Understanding for Visual Grounding on Point Clouds through Instance Multi-level Contextual Referring](https://openaccess.thecvf.com/content/ICCV2021/papers/Yuan_InstanceRefer_Cooperative_Holistic_Understanding_for_Visual_Grounding_on_Point_Clouds_ICCV_2021_paper.pdf) | ICCV 2021 | [[code]](https://github.com/CurryYuan/InstanceRefer) |
