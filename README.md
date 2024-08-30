@@ -49,6 +49,7 @@ A collection of referring image segmentation papers and datasets.
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
+| Shared-RIS | [A Simple Baseline with Single-encoder for Referring Image Segmentation](https://arxiv.org/abs/2408.15521) | arxiv 24.08 | [[code]](https://github.com/Seonghoon-Yu/Shared-RIS) |
 | ASDA | [Adaptive Selection based Referring Image Segmentation](https://openreview.net/forum?id=tVrwpFjsBv) | ACM MM 2024 | |
 | Pseudo-RIS | [Pseudo-RIS: Distinctive Pseudo-supervision Generation for Referring Image Segmentation](https://arxiv.org/abs/2407.07412) | ECCV 2024 | [[code]](https://github.com/Seonghoon-Yu/Pseudo-RIS) |
 | SafaRi | [SafaRi: Adaptive Sequence Transformer for Weakly Supervised Referring Expression Segmentation](https://arxiv.org/abs/2407.02389) | ECCV 2024 | [[webpage]](https://sayannag.github.io/safari_eccv2024/) |
