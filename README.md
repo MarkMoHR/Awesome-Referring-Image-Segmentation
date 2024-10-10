@@ -52,6 +52,9 @@ A collection of referring image segmentation papers and datasets.
 | Shared-RIS | [A Simple Baseline with Single-encoder for Referring Image Segmentation](https://arxiv.org/abs/2408.15521) | arxiv 24.08 | [[code]](https://github.com/Seonghoon-Yu/Shared-RIS) |
 | ASDA | [Adaptive Selection based Referring Image Segmentation](https://openreview.net/forum?id=tVrwpFjsBv) | ACM MM 2024 | |
 | NeMo | [Finding NeMo: Negative-mined Mosaic Augmentation for Referring Image Segmentation](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08696.pdf) | ECCV 2024 |  |
+| ReMamber | [ReMamber: Referring Image Segmentation with Mamba Twister](https://arxiv.org/abs/2403.17839) | ECCV 2024 | [[code]](https://github.com/yyh-rain-song/ReMamber) |
+| GTMS | [GTMS: A Gradient-driven Tree-guided Mask-free Referring Image Segmentation Method](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08341.pdf) | ECCV 2024 | [[code]](https://github.com/eternalld/GTMS) |
+| SAM4MLLM | [SAM4MLLM: Enhance Multi-Modal Large Language Model for Referring Expression Segmentation](https://arxiv.org/abs/2409.10542) | ECCV 2024 | [[code]](https://github.com/AI-Application-and-Integration-Lab/SAM4MLLM) |
 | Pseudo-RIS | [Pseudo-RIS: Distinctive Pseudo-supervision Generation for Referring Image Segmentation](https://arxiv.org/abs/2407.07412) | ECCV 2024 | [[code]](https://github.com/Seonghoon-Yu/Pseudo-RIS) |
 | SafaRi | [SafaRi: Adaptive Sequence Transformer for Weakly Supervised Referring Expression Segmentation](https://arxiv.org/abs/2407.02389) | ECCV 2024 | [[webpage]](https://sayannag.github.io/safari_eccv2024/) |
 | CM-MaskSD | [CM-MaskSD: Cross-Modality Masked Self-Distillation for Referring Image Segmentation](https://arxiv.org/abs/2305.11481) | TMM 2024 |  |
@@ -128,6 +131,7 @@ A collection of referring image segmentation papers and datasets.
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
+| VD-IT | [Exploring Pre-trained Text-to-Video Diffusion Models for Referring Video Object Segmentation](https://arxiv.org/abs/2403.12042) | ECCV 2024 | [[code]](https://github.com/buxiangzhiren/VD-IT) |
 | DsHmp | [Decoupling Static and Hierarchical Motion Perception for Referring Video Segmentation](https://arxiv.org/abs/2404.03645) | CVPR 2024 | [[code]](https://github.com/heshuting555/DsHmp) |
 | LoSh | [LoSh: Long-Short Text Joint Prediction Network for Referring Video Object Segmentation](https://arxiv.org/abs/2306.08736) | CVPR 2024 | [[code]](https://github.com/LinfengYuan1997/Losh) |
 | SOC | [SOC: Semantic-Assisted Object Cluster for Referring Video Object Segmentation](https://proceedings.neurips.cc/paper_files/paper/2023/file/542c14ff4622e45384df40dc97b9cf90-Paper-Conference.pdf) | NeurIPS  2023 | [[code]](https://github.com/RobertLuo1/NeurIPS2023_SOC) |
