@@ -159,6 +159,8 @@ A collection of referring image segmentation papers and datasets.
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
+| X-RefSeg3D | [X-RefSeg3D: Enhancing Referring 3D Instance Segmentation via Structured Cross-Modal Graph Neural Networks](https://ojs.aaai.org/index.php/AAAI/article/view/28254) | AAAI 2024 | [[code]](https://github.com/qzp2018/X-RefSeg3D) |
+| 3D-STMN | [3D-STMN: Dependency-Driven Superpoint-Text Matching Network for End-to-End 3D Referring Expression Segmentation](https://ojs.aaai.org/index.php/AAAI/article/view/28408) | AAAI 2024 | [[code]](https://github.com/sosppxo/3D-STMN) |
 | SegPoint | [SegPoint: Segment Any Point Cloud via Large Language Model](https://arxiv.org/abs/2407.13761) | ECCV 2024 | [[project]](https://heshuting555.github.io/SegPoint) |
 | 3D-GRES | [3D-GRES: Generalized 3D Referring Expression Segmentation](https://arxiv.org/abs/2407.20664) | ACM MM 2024 | [[code]](https://github.com/sosppxo/3D-GRES) |
 | RefMask3D | [RefMask3D: Language-Guided Transformer for 3D Referring Segmentation](https://arxiv.org/abs/2407.18244) | ACM MM 2024 | [[code]](https://github.com/heshuting555/RefMask3D) |
