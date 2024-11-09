@@ -51,7 +51,7 @@ A collection of referring image segmentation papers and datasets.
 | --- | --- | --- | --- |
 | Shared-RIS | [A Simple Baseline with Single-encoder for Referring Image Segmentation](https://arxiv.org/abs/2408.15521) | arxiv 24.08 | [[code]](https://github.com/Seonghoon-Yu/Shared-RIS) |
 | ASDA | [Adaptive Selection based Referring Image Segmentation](https://openreview.net/forum?id=tVrwpFjsBv) | ACM MM 2024 | [code](https://github.com/swagger-coder/ASDA) |
-| NeMo | [Finding NeMo: Negative-mined Mosaic Augmentation for Referring Image Segmentation](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08696.pdf) | ECCV 2024 |  |
+| NeMo | [Finding NeMo: Negative-mined Mosaic Augmentation for Referring Image Segmentation](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08696.pdf) | ECCV 2024 | [[webpage]](https://dddonghwa.github.io/NeMo/) [[code]](https://github.com/snuviplab/NeMo)  |
 | ReMamber | [ReMamber: Referring Image Segmentation with Mamba Twister](https://arxiv.org/abs/2403.17839) | ECCV 2024 | [[code]](https://github.com/yyh-rain-song/ReMamber) |
 | GTMS | [GTMS: A Gradient-driven Tree-guided Mask-free Referring Image Segmentation Method](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08341.pdf) | ECCV 2024 | [[code]](https://github.com/eternalld/GTMS) |
 | SAM4MLLM | [SAM4MLLM: Enhance Multi-Modal Large Language Model for Referring Expression Segmentation](https://arxiv.org/abs/2409.10542) | ECCV 2024 | [[code]](https://github.com/AI-Application-and-Integration-Lab/SAM4MLLM) |
