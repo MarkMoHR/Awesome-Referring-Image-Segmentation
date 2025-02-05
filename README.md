@@ -49,6 +49,7 @@ A collection of referring image segmentation papers and datasets.
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
+| DETRIS | [Densely Connected Parameter-Efficient Tuning for Referring Image Segmentation](https://arxiv.org/abs/2501.08580) | AAAI 2025 | [[code]](https://github.com/jiaqihuang01/DETRIS) |
 | VATEX | [Vision-Aware Text Features in Referring Image Segmentation: From Object Understanding to Context Understanding](https://arxiv.org/abs/2404.08590) | WACV 2025 | [[code]](https://github.com/nero1342/VATEX) [[webpage]](https://vatex.hkustvgd.com/) |
 | Shared-RIS | [A Simple Baseline with Single-encoder for Referring Image Segmentation](https://arxiv.org/abs/2408.15521) | arxiv 24.08 | [[code]](https://github.com/Seonghoon-Yu/Shared-RIS) |
 | ASDA | [Adaptive Selection based Referring Image Segmentation](https://openreview.net/forum?id=tVrwpFjsBv) | ACM MM 2024 | [code](https://github.com/swagger-coder/ASDA) |
