@@ -49,6 +49,7 @@ A collection of referring image segmentation papers and datasets.
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
+| HybridGL | [Hybrid Global-Local Representation with Augmented Spatial Guidance for Zero-Shot Referring Image Segmentation](https://arxiv.org/abs/2504.00356) | CVPR 2025 | [[code]](https://github.com/fhgyuanshen/HybridGL) |
 | IteRPrimE | [IteRPrimE: Zero-shot Referring Image Segmentation with Iterative Grad-CAM Refinement and Primary Word Emphasis](https://arxiv.org/abs/2503.00936) | AAAI 2025 | [[code]](https://github.com/VoyageWang/IteRPrimE) |
 | DETRIS | [Densely Connected Parameter-Efficient Tuning for Referring Image Segmentation](https://arxiv.org/abs/2501.08580) | AAAI 2025 | [[code]](https://github.com/jiaqihuang01/DETRIS) |
 | VATEX | [Vision-Aware Text Features in Referring Image Segmentation: From Object Understanding to Context Understanding](https://arxiv.org/abs/2404.08590) | WACV 2025 | [[code]](https://github.com/nero1342/VATEX) [[webpage]](https://vatex.hkustvgd.com/) |
