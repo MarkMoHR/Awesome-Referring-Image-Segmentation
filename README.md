@@ -135,6 +135,7 @@ A collection of referring image segmentation papers and datasets.
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
+| ReferDINO | [ReferDINO: Referring Video Object Segmentation with Visual Grounding Foundations](https://arxiv.org/abs/2501.14607) | ICCV 2025 | [[code]](https://github.com/iSEE-Laboratory/ReferDINO) |
 | VD-IT | [Exploring Pre-trained Text-to-Video Diffusion Models for Referring Video Object Segmentation](https://arxiv.org/abs/2403.12042) | ECCV 2024 | [[code]](https://github.com/buxiangzhiren/VD-IT) |
 | DsHmp | [Decoupling Static and Hierarchical Motion Perception for Referring Video Segmentation](https://arxiv.org/abs/2404.03645) | CVPR 2024 | [[code]](https://github.com/heshuting555/DsHmp) |
 | LoSh | [LoSh: Long-Short Text Joint Prediction Network for Referring Video Object Segmentation](https://arxiv.org/abs/2306.08736) | CVPR 2024 | [[code]](https://github.com/LinfengYuan1997/Losh) |
