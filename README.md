@@ -49,6 +49,7 @@ A collection of referring image segmentation papers and datasets.
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
+| Latent-VG | [Latent Expression Generation for Referring Image Segmentation and Grounding](https://arxiv.org/abs/2508.05123) | ICCV 2025 |  |
 | DeRIS | [DeRIS: Decoupling Perception and Cognition for Enhanced Referring Image Segmentation through Loopback Synergy](https://arxiv.org/pdf/2507.01738) | ICCV 2025 | [[code]](https://github.com/Dmmm1997/DeRIS) |
 | WeakMCN | [WeakMCN: Multi-task Collaborative Network for Weakly Supervised Referring Expression Comprehension and Segmentation](https://openaccess.thecvf.com/content/CVPR2025/papers/Cheng_WeakMCN_Multi-task_Collaborative_Network_for_Weakly_Supervised_Referring_Expression_Comprehension_CVPR_2025_paper.pdf) | CVPR 2025 | [[code]](https://github.com/MRUIL/WeakMCN) |
 | HybridGL | [Hybrid Global-Local Representation with Augmented Spatial Guidance for Zero-Shot Referring Image Segmentation](https://arxiv.org/abs/2504.00356) | CVPR 2025 | [[code]](https://github.com/fhgyuanshen/HybridGL) |
