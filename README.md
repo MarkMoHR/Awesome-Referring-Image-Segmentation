@@ -132,6 +132,7 @@ A collection of referring image segmentation papers and datasets.
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
+| UniPixel | [UniPixel: Unified Object Referring and Segmentation for Pixel-Level Visual Reasoning](https://arxiv.org/abs/2509.18094) | NeurIPS 2025 | [[code]](https://github.com/PolyU-ChenLab/UniPixel) [[webpage]](https://polyu-chenlab.github.io/unipixel/) |
 | PhraseClick | [PhraseClick: Toward Achieving Flexible Interactive Segmentation by Phrase and Click](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480426.pdf) | ECCV 2020 |  |
 
 
