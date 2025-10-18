@@ -50,6 +50,7 @@ A collection of referring image segmentation papers and datasets.
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
 | CoPatch | [CoPatch: Zero-Shot Referring Image Segmentation by Leveraging Untapped Spatial Knowledge in CLIP](https://arxiv.org/abs/2509.23098) | arxiv 25.09 | [[code]](https://github.com/kaist-cvml/copatch) |
+| SaFiRe | [SaFiRe: Saccade-Fixation Reiteration with Mamba for Referring Image Segmentation](https://arxiv.org/abs/2510.10160) | NeurIPS 2025 |  |
 | UniPixel | [UniPixel: Unified Object Referring and Segmentation for Pixel-Level Visual Reasoning](https://arxiv.org/abs/2509.18094) | NeurIPS 2025 | [[code]](https://github.com/PolyU-ChenLab/UniPixel) [[webpage]](https://polyu-chenlab.github.io/unipixel/) |
 | Latent-VG | [Latent Expression Generation for Referring Image Segmentation and Grounding](https://arxiv.org/abs/2508.05123) | ICCV 2025 |  |
 | DeRIS | [DeRIS: Decoupling Perception and Cognition for Enhanced Referring Image Segmentation through Loopback Synergy](https://arxiv.org/pdf/2507.01738) | ICCV 2025 | [[code]](https://github.com/Dmmm1997/DeRIS) |
