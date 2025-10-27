@@ -52,6 +52,7 @@ A collection of referring image segmentation papers and datasets.
 | CoPatch | [CoPatch: Zero-Shot Referring Image Segmentation by Leveraging Untapped Spatial Knowledge in CLIP](https://arxiv.org/abs/2509.23098) | arxiv 25.09 | [[code]](https://github.com/kaist-cvml/copatch) |
 | SaFiRe | [SaFiRe: Saccade-Fixation Reiteration with Mamba for Referring Image Segmentation](https://arxiv.org/abs/2510.10160) | NeurIPS 2025 |  |
 | UniPixel | [UniPixel: Unified Object Referring and Segmentation for Pixel-Level Visual Reasoning](https://arxiv.org/abs/2509.18094) | NeurIPS 2025 | [[code]](https://github.com/PolyU-ChenLab/UniPixel) [[webpage]](https://polyu-chenlab.github.io/unipixel/) |
+| RaAM | [Region-aware Anchoring Mechanism for Efficient Referring Visual Grounding](https://openaccess.thecvf.com/content/ICCV2025/papers/Ouyang_Region-aware_Anchoring_Mechanism_for_Efficient_Referring_Visual_Grounding_ICCV_2025_paper.pdf) | ICCV 2025 |  |
 | Latent-VG | [Latent Expression Generation for Referring Image Segmentation and Grounding](https://arxiv.org/abs/2508.05123) | ICCV 2025 |  |
 | DeRIS | [DeRIS: Decoupling Perception and Cognition for Enhanced Referring Image Segmentation through Loopback Synergy](https://arxiv.org/pdf/2507.01738) | ICCV 2025 | [[code]](https://github.com/Dmmm1997/DeRIS) |
 | WeakMCN | [WeakMCN: Multi-task Collaborative Network for Weakly Supervised Referring Expression Comprehension and Segmentation](https://openaccess.thecvf.com/content/CVPR2025/papers/Cheng_WeakMCN_Multi-task_Collaborative_Network_for_Weakly_Supervised_Referring_Expression_Comprehension_CVPR_2025_paper.pdf) | CVPR 2025 | [[code]](https://github.com/MRUIL/WeakMCN) |
@@ -143,6 +144,7 @@ A collection of referring image segmentation papers and datasets.
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
 | UniPixel | [UniPixel: Unified Object Referring and Segmentation for Pixel-Level Visual Reasoning](https://arxiv.org/abs/2509.18094) | NeurIPS 2025 | [[code]](https://github.com/PolyU-ChenLab/UniPixel) [[webpage]](https://polyu-chenlab.github.io/unipixel/) |
+| MPG-SAM 2 | [MPG-SAM 2: Adapting SAM 2 with Mask Priors and Global Context for Referring Video Object Segmentation](https://openaccess.thecvf.com/content/ICCV2025/papers/Rong_MPG-SAM_2_Adapting_SAM_2_with_Mask_Priors_and_Global_ICCV_2025_paper.pdf) | ICCV 2025 | [[code]](https://github.com/rongfu-dsb/MPG-SAM2) |
 | ReferDINO | [ReferDINO: Referring Video Object Segmentation with Visual Grounding Foundations](https://arxiv.org/abs/2501.14607) | ICCV 2025 | [[code]](https://github.com/iSEE-Laboratory/ReferDINO) |
 | VD-IT | [Exploring Pre-trained Text-to-Video Diffusion Models for Referring Video Object Segmentation](https://arxiv.org/abs/2403.12042) | ECCV 2024 | [[code]](https://github.com/buxiangzhiren/VD-IT) |
 | DsHmp | [Decoupling Static and Hierarchical Motion Perception for Referring Video Segmentation](https://arxiv.org/abs/2404.03645) | CVPR 2024 | [[code]](https://github.com/heshuting555/DsHmp) |
