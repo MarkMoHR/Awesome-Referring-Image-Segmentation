@@ -49,6 +49,7 @@ A collection of referring image segmentation papers and datasets.
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
+| PixelRefer | [PixelRefer: A Unified Framework for Spatio-Temporal Object Referring with Arbitrary Granularity](https://arxiv.org/abs/2510.23603) | arxiv 25.10 | [[code]](https://github.com/alibaba-damo-academy/PixelRefer) |
 | CoPatch | [CoPatch: Zero-Shot Referring Image Segmentation by Leveraging Untapped Spatial Knowledge in CLIP](https://arxiv.org/abs/2509.23098) | arxiv 25.09 | [[code]](https://github.com/kaist-cvml/copatch) |
 | SaFiRe | [SaFiRe: Saccade-Fixation Reiteration with Mamba for Referring Image Segmentation](https://arxiv.org/abs/2510.10160) | NeurIPS 2025 |  |
 | UniPixel | [UniPixel: Unified Object Referring and Segmentation for Pixel-Level Visual Reasoning](https://arxiv.org/abs/2509.18094) | NeurIPS 2025 | [[code]](https://github.com/PolyU-ChenLab/UniPixel) [[webpage]](https://polyu-chenlab.github.io/unipixel/) |
@@ -143,6 +144,7 @@ A collection of referring image segmentation papers and datasets.
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
+| PixelRefer | [PixelRefer: A Unified Framework for Spatio-Temporal Object Referring with Arbitrary Granularity](https://arxiv.org/abs/2510.23603) | arxiv 25.10 | [[code]](https://github.com/alibaba-damo-academy/PixelRefer) [[webpage]](https://circleradon.github.io/PixelRefer/) |
 | UniPixel | [UniPixel: Unified Object Referring and Segmentation for Pixel-Level Visual Reasoning](https://arxiv.org/abs/2509.18094) | NeurIPS 2025 | [[code]](https://github.com/PolyU-ChenLab/UniPixel) [[webpage]](https://polyu-chenlab.github.io/unipixel/) |
 | MPG-SAM 2 | [MPG-SAM 2: Adapting SAM 2 with Mask Priors and Global Context for Referring Video Object Segmentation](https://openaccess.thecvf.com/content/ICCV2025/papers/Rong_MPG-SAM_2_Adapting_SAM_2_with_Mask_Priors_and_Global_ICCV_2025_paper.pdf) | ICCV 2025 | [[code]](https://github.com/rongfu-dsb/MPG-SAM2) |
 | ReferDINO | [ReferDINO: Referring Video Object Segmentation with Visual Grounding Foundations](https://arxiv.org/abs/2501.14607) | ICCV 2025 | [[code]](https://github.com/iSEE-Laboratory/ReferDINO) |
