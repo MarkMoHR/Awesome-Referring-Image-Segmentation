@@ -19,6 +19,8 @@ A collection of referring image segmentation papers and datasets.
   - [4. Interactive Referring Image Segmentation](#4-interactive-referring-image-segmentation)
   - [5. Referring Video Object Segmentation](#5-referring-video-object-segmentation)
   - [6. 3D Referring Segmentation](#6-3d-referring-segmentation)
+  - [7. Referring Image Segmentation in Specific Domains](#7-referring-image-segmentation-in-specific-domains)
+
 
 
 ## 1. Datasets
@@ -49,6 +51,7 @@ A collection of referring image segmentation papers and datasets.
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
+|  | [Improving Target Presence and Plurality Recognition for Generalized Referring Image Segmentation](https://jinsingsangsung.github.io/posts/improving-target-presence-and-plurality-recognition-for-generalized-referring-image-segmentation/) | AAAI 2026 | [[webpage]](https://jinsingsangsung.github.io/posts/improving-target-presence-and-plurality-recognition-for-generalized-referring-image-segmentation/) |
 | PixelRefer | [PixelRefer: A Unified Framework for Spatio-Temporal Object Referring with Arbitrary Granularity](https://arxiv.org/abs/2510.23603) | arxiv 25.10 | [[code]](https://github.com/alibaba-damo-academy/PixelRefer) |
 | CoPatch | [CoPatch: Zero-Shot Referring Image Segmentation by Leveraging Untapped Spatial Knowledge in CLIP](https://arxiv.org/abs/2509.23098) | arxiv 25.09 | [[code]](https://github.com/kaist-cvml/copatch) |
 | SaFiRe | [SaFiRe: Saccade-Fixation Reiteration with Mamba for Referring Image Segmentation](https://arxiv.org/abs/2510.10160) | NeurIPS 2025 |  |
@@ -184,4 +187,14 @@ A collection of referring image segmentation papers and datasets.
 | RefMask3D | [RefMask3D: Language-Guided Transformer for 3D Referring Segmentation](https://arxiv.org/abs/2407.18244) | ACM MM 2024 | [[code]](https://github.com/heshuting555/RefMask3D) |
 | TGNN | [Text-Guided Graph Neural Networks for Referring 3D Instance Segmentation](https://ojs.aaai.org/index.php/AAAI/article/view/16253/16060) | AAAI 2021 |  |
 | InstanceRefer | [InstanceRefer: Cooperative Holistic Understanding for Visual Grounding on Point Clouds through Instance Multi-level Contextual Referring](https://openaccess.thecvf.com/content/ICCV2021/papers/Yuan_InstanceRefer_Cooperative_Holistic_Understanding_for_Visual_Grounding_on_Point_Clouds_ICCV_2021_paper.pdf) | ICCV 2021 | [[code]](https://github.com/CurryYuan/InstanceRefer) |
+
+
+## 7. Referring Image Segmentation in Specific Domains
+
+| Short name | Paper | Source | Code/Project Link  |
+| --- | --- | --- | --- |
+| RS2-SAM2 | [RS2-SAM2: Customized SAM2 for Referring **Remote Sensing Image** Segmentation](https://arxiv.org/abs/2503.07266) | AAAI 2026 | [[code]](https://github.com/rongfu-dsb/RS2-SAM2) |
+| SurgRef | [Where It Moves, It Matters: Referring **Surgical Instrument** Segmentation via Motion](https://arxiv.org/abs/2601.12224) | AAAI 2026 | [[code]](https://github.com/weimengmeng1999/SurgRef) |
+| RIS-LAD | [RIS-LAD: A Benchmark and Model for Referring **Low-Altitude Drone Image** Segmentation](https://arxiv.org/abs/2507.20920) | AAAI 2026 | [[code]](https://github.com/AHideoKuzeA/RIS-LAD-A-Benchmark-and-Model-for-Referring-Low-Altitude-Drone-Image-Segmentation) |
+
 
